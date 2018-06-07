@@ -1,0 +1,8 @@
+package com.internousdev.webproj3.action;
+//消えた
+//import com.internousdev.xwork2.ActionSupport;
+
+public class HelloStrutsAction {
+	//ここから
+
+}
