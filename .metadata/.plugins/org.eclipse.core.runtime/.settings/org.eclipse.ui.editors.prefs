@@ -1,7 +1,3 @@
-AbstractTextEditor.Color.Background.SystemDefault=false
-AbstractTextEditor.Color.Foreground.SystemDefault=false
-AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
-AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
 additionIndicationInOverviewRuler=true
 eclipse.preferences.version=1
 glanceColorBackground=255,255,0
