@@ -3,8 +3,11 @@
 "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
 "http://struts.apache.org/dtds/struts-2.3.dtd">
 <struts>
+
+	<!-- struts挙動の制御-->
 <constant name="struts.devMode" value="true" />
 
+	<!-- struts-defaultの継承 -->
 <package name="com.internousdev.webproj2.action" extends="struts-default">
 
 <action name="HelloStrutsAction" class="com.internousdev.webproj2.action.HelloStrutsAction"

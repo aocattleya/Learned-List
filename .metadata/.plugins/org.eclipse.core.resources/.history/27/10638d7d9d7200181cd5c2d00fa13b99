@@ -1,0 +1,19 @@
+set names utf8;
+set forein_key_check = 0;
+drop databases if exists ecsite;
+
+-- ecsiteがデータベース名
+create database if not exists ecsite;
+use ecsite;
+
+-- login_user_transacionがテーブル名
+drop table if exist login_user_transaction;
+
+create table login_user_transaction;
+--login_user_transactionテーブルに情報を保存する
+	id int not null primary key auto_increment,
+	login_id varchar(16) unique,
+	login_pass varchar(16) unique,
+	login_name varchar(50),
+	insert_date datetime,
+);
