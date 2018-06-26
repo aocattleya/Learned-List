@@ -9,7 +9,7 @@ import com.internousdev.ecsite.dto.BuyItemDTO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class HomeAction extends ActionSupport implements SessionAware {
-	public Map<String, Object> session;
+	private Map<String, Object> session;
 
 	public String execute() {
 		String result = "login";

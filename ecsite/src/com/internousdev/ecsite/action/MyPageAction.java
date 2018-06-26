@@ -11,15 +11,17 @@ import com.internousdev.ecsite.dto.MyPageDTO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class MyPageAction extends ActionSupport implements SessionAware {
-	public Map<String, Object> session;
+	private Map<String, Object> session;
 	private MyPageDAO myPageDAO = new MyPageDAO();
 	private ArrayList<MyPageDTO> myPageList = new ArrayList<MyPageDTO>();
 	private String deleteFlg;
 	private String message;
+
 	public String execute() throws SQLException {
 		if (!session.containsKey("id")) {
 			return ERROR;
 		}
+
 		if(deleteFlg == null) {
 			String item_transaction_id = session.get("id").toString();
 			String user_master_id = session.get("login_user_id").toString();
@@ -59,13 +61,4 @@ public class MyPageAction extends ActionSupport implements SessionAware {
 		this.message = message;
 	}
 }
-
-
-
-
-
-
-
-
-
 

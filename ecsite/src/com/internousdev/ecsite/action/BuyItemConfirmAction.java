@@ -9,7 +9,7 @@ import com.internousdev.ecsite.dao.BuyItemCompleteDAO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class BuyItemConfirmAction extends ActionSupport implements SessionAware {
-	public Map<String, Object> session;
+	private Map<String, Object> session;
 	private BuyItemCompleteDAO buyItemCompleteDAO = new BuyItemCompleteDAO();
 
 	public String execute() throws SQLException {

@@ -59,7 +59,3 @@ public class UserCreateConfirmAction extends ActionSupport implements SessionAwa
 		this.errorMassage = errorMassage;
 	}
 }
-
-
-
-

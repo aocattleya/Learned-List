@@ -13,50 +13,56 @@
 <title>Home画面</title>
 
 <style type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+	background: #fff;
+}
 
-	body {
-	margin:0;
-	padding:0;
-	line-height:1.6;
-	letter-spacing:1px;
-	font-family:Verdana, Helvetica, sans-serif;
-	font-size:12px;
-	color:#333;
-	background:#fff;
-	}
 table {
-	text-align:center;
-	margin:0 auto;
-	}
+	text-align: center;
+	margin: 0 auto;
+}
 
 /* ========ecsite LAYOUT======== */
-	#top {
-	width:780px;
-	margin:30px auto;
-	border:1px solid #333;
-	}
+#top {
+	width: 780px;
+	margin: 30px auto;
+	border: 1px solid #333;
+}
+
 #header {
-width: 100%;
-height: 80px;
-background-color: black;
+	width: 100%;
+	height: 80px;
+	background-color: black;
 }
+
 #main {
-width: 100%;
-height: 500px;
-text-align: center;
+	width: 100%;
+	height: 500px;
+	text-align: center;
 }
+
 #footer {
-width: 100%;
-height: 80px;
-background-color: black;
-clear:both;
+	width: 100%;
+	height: 80px;
+	background-color: black;
+	clear: both;
 }
+
 #text-center {
-display: inline-block;
-text-align: center;
+	display: inline-block;
+	text-align: center;
 }
 </style>
 </head>
+
+
 <body>
 	<div id="header">
 		<div id="pr"></div>
@@ -80,4 +86,5 @@ text-align: center;
 		<div id="pr"></div>
 	</div>
 </body>
+
 </html>

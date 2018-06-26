@@ -78,22 +78,22 @@ table {
 
 				<tr>
 					<td>商品名</td>
-					<td><s:property value="session.buyItem_name" /></td>
+					<td><s:property value="#session.buyItem_name" /></td>
 				</tr>
 
 				<tr>
 					<td>値段</td>
-					<td><s:property value="session.total_price" /><span>円</span></td>
+					<td><s:property value="#session.total_price" /><span>円</span></td>
 				</tr>
 
 				<tr>
 					<td>購入個数</td>
-					<td><s:property value="session.count" /><span>個</span></td>
+					<td><s:property value="#session.count" /><span>個</span></td>
 				</tr>
 
 				<tr>
 					<td>支払い方法</td>
-					<td><s:property value="session.pay" /></td>
+					<td><s:property value="#session.pay" /></td>
 				</tr>
 
 				<tr>
@@ -114,22 +114,6 @@ table {
 	<div id="footer">
 		<div id="pr"></div>
 	</div>
-
-
-
-	<div>
-		<p>
-			前画面に戻る場合は<a href='<s:url action="GoHomeAction" />'>こちら</a>
-		</p>
-		<p>
-			マイぺージは<a href='<s:url action="MyPageAction" />'>こちら</a>
-		</p>
-	</div>
-
-
-<div id="footer">
-	<div id="pr"></div>
-</div>
 
 </body>
 </html>
