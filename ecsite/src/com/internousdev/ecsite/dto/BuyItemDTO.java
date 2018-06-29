@@ -5,23 +5,27 @@ public class BuyItemDTO {
 	private String itemName;
 	private String itemPrice;
 
+	//Id
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
 
-	public String getItemName() {
-		return itemName;
-	}
-	public void setItemName(String itemName) {
-		this.itemName = itemName;
-	}
+	//ItemPrice
 	public String getItemPrice() {
 		return itemPrice;
 	}
 	public void setItemPrice(String itemPrice) {
 		this.itemPrice = itemPrice;
 	}
-	public int getId() {
-		return id;
+
+	//ItemName
+	public String getItemName() {
+		return itemName;
 	}
-	public void setId(int id) {
-		this.id = id;
+	public void setItemName(String itemName) {
+		this.itemName = itemName;
 	}
 }

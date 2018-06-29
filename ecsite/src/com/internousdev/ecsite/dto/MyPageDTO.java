@@ -1,32 +1,25 @@
 package com.internousdev.ecsite.dto;
 
 public class MyPageDTO {
-	public String itemName;
+	private String itemName;
+	private String totalPrice;
+	private String totalCount;
+	private String payment;
+	private String userName;
+	private String id;
+	private String insert_date;
 
-	public String totalPrice;
-
-	public String totalCount;
-
-	public String payment;
-
-	public String userName;
-
-	public String id;
-
-	public String insert_date;
 
 	public String getItemName() {
 		return itemName;
 	}
-
 	public void setItemName(String itemName) {
 		this.itemName = itemName;
 	}
 
-	public String gerTotalPrice() {
+	public String getTotalPrice() {
 		return totalPrice;
 	}
-
 	public void setTotalPrice(String totalPrice) {
 		this.totalPrice = totalPrice;
 	}
@@ -37,6 +30,7 @@ public class MyPageDTO {
 	public void setTotalCount(String totalCount) {
 		this.totalCount = totalCount;
 	}
+
 	public String getPayment() {
 		return payment;
 	}
@@ -50,6 +44,7 @@ public class MyPageDTO {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
+
 	public String getId() {
 		return id;
 	}

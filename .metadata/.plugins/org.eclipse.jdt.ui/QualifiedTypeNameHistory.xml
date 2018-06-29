@@ -6,4 +6,5 @@
 <fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
 <fullyQualifiedTypeName name="com.internousdev.webproj2.util.DBConnector"/>
 <fullyQualifiedTypeName name="com.internousdev.webproj2.dao.HelloStrutsDAO"/>
+<fullyQualifiedTypeName name="com.internousdev.login.util.DBConnector"/>
 </qualifiedTypeNameHistroy>

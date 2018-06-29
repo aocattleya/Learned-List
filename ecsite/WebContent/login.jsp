@@ -56,9 +56,9 @@ table {
 }
 
 #text-link {
-	disply: inline-block;
-<!--	text-align: right; -->
+	displey: inline-block;
 }
+
 </style>
 </head>
 
@@ -67,7 +67,9 @@ table {
 	<div id="pr"></div>
 </div>
 <div id="main">
-	<div id="top"><p>Login</p></div>
+	<div id="top">
+		<p>Login</p>
+	</div>
 	<div>
 		<h3>商品を購入する際にはログインをお願いします。</h3>
 		<s:form action="LoginAction">
@@ -82,6 +84,8 @@ table {
 		</div>
 	</div>
 </div>
-<div id="footer"><div id="pr"></div></div>
+<div id="footer">
+	<div id="pr"></div>
+</div>
 </body>
 </html>

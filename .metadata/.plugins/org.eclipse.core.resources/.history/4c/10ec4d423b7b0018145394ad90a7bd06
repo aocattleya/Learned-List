@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+<title>入力フォーム</title>
+
+</head>
+<body>
+	<s:form action="TextAction">
+		<s:name name="name"/>
+		<s:age name="age"/>
+		<s:submit value="決定"/>
+	</s:form>
+
+
+</body>
+</html>

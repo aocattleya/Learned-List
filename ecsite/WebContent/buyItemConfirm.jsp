@@ -56,6 +56,7 @@ table {
 	clear: both;
 }
 </style>
+
 <script type="text/javascript">
 	function submitAction(url) {
 		$('form').attr('action', url);
@@ -63,6 +64,7 @@ table {
 	}
 </script>
 </head>
+
 <body>
 	<div id="header">
 		<div id="pr"></div>
@@ -101,10 +103,8 @@ table {
 				</tr>
 
 				<tr>
-					<td><input type="button" value="戻る"
-						onclick="submitAction('HomeAction')" /></td>
-					<td><input type="button" value="完了"
-						onclick="submitAction('BuyItemConfirmAction')" /></td>
+					<td><input type="button" value="戻る" onclick="submitAction('HomeAction')" /></td>
+					<td><input type="button" value="完了" onclick="submitAction('BuyItemConfirmAction')" /></td>
 				</tr>
 			</s:form>
 		</div>
