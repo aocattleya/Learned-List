@@ -1,6 +1,5 @@
 
 ※ スクールと自宅PCの共有用リポジトリ  
-なので一部ですがマークダウン練習の為に下記に内容をまとめました。
 
 ## HTML / CSS / JavaScript / PHP / MySQL
 ### ・4eachblog
