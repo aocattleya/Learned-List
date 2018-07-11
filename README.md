@@ -1,49 +1,51 @@
 
-## ・HTML / CSS / JavaScript / PHP / MySQL
-### - 4each_keijiban
-### - 4eachblog
+## HTML / CSS / JavaScript / PHP / MySQL
+### 　　4eachblog
+### 　　4each_keijiban
 
-## ・Javaプログラミング
 
-### - Person / Person1
-インスタンス化
+## Javaプログラミング
 
-### - Capsule / 
-カプセル化
+### Person / Person1
+　　インスタンス化
 
-### - Iphone
-継承と実装
+### Capsule / 
+　　カプセル化
 
-### - CollectionFramework
-List / Map / Set
+### Iphone
+　　継承と実装
 
-### - TestDB
-MySQLデータベース接続
+### CollectionFramework
+　　List / Map / Set
 
-### - HelloJSP / HelloServlet
-JSP / Servlet / MySQL
+### TestDB
+　　MySQLデータベース接続
 
-## ・Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL）
+### HelloJSP / HelloServlet
+　　JSP / Servlet / MySQL
 
-### - age / Plus / TextBox / Mycattleya
-Struts2の基礎機能を自分で使ってみた。
+## Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL）
 
-### - Login
-ログイン認証機能
+### Login
+　　ログイン認証機能
 
-### - template
-(ECサイト初級)ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
+### template
+　　(ECサイト初級)  
+　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
-### - WebProj 1 ~ 5
-(演習)
-1、JSP - Actionクラス
-2、JSP - Actionクラス - DAOクラス
-3、JSP - Actionクラス - DAOクラス - DTOクラス
-4、JSP - Actionクラス - DAOクラス - DTOクラス（List使用）
-5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）
+### WebProj 1 ~ 5
+　(演習)  
+　　1、JSP - Actionクラス  
+　　2、JSP - Actionクラス - DAOクラス  
+　　3、JSP - Actionクラス - DAOクラス - DTOクラス  
+　　4、JSP - Actionクラス - DAOクラス - DTOクラス（List使用）  
+　　5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）  
 
-### - ecsite
-(ECサイト中級)
+### ecsite
+　(ECサイト中級)
 
-### - チーム製作へ
-(https://github.com/internousdevwork/leisurepass)
+### チーム製作へ
+　(https://github.com/internousdevwork/leisurepass)
+
+### age / Plus / TextBox / Mycattleya  
+　個人的に自分でStruts2の基礎機能を使ってみた。
