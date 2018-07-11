@@ -1,40 +1,40 @@
 
-## - HTML / CSS / JavaScript / PHP / MySQL
-### 4each_keijiban
-### 4eachblog
+## ・HTML / CSS / JavaScript / PHP / MySQL
+### - 4each_keijiban
+### - 4eachblog
 ----------------------
-## - Javaプログラミング
+## ・Javaプログラミング
 
-### Person / Person1
+### - Person / Person1
 インスタンス化
 
-### Capsule / 
+### - Capsule / 
 カプセル化
 
-### Iphone
+### - Iphone
 継承と実装
 
-### CollectionFramework
+### - CollectionFramework
 List / Map / Set
 
-### TestDB
+### - TestDB
 MySQLデータベース接続
 
-### HelloJSP / HelloServlet
+### - HelloJSP / HelloServlet
 JSP / Servlet / MySQL
 
-## - Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL）
+## ・Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL）
 
-### age / Plus / TextBox / Mycattleya
+### - age / Plus / TextBox / Mycattleya
 Struts2の基礎機能を自分で使ってみた。
 
-### Login
+### - Login
 ログイン認証機能
 
-### template
+### - template
 (ECサイト初級)ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
-### WebProj 1 ~ 5
+### - WebProj 1 ~ 5
 (演習)
 1、JSP - Actionクラス
 2、JSP - Actionクラス - DAOクラス
@@ -42,8 +42,8 @@ Struts2の基礎機能を自分で使ってみた。
 4、JSP - Actionクラス - DAOクラス - DTOクラス（List使用）
 5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）
 
-### ecsite
+### - ecsite
 (ECサイト中級)
 
-###チーム製作へ
+### - チーム製作へ
 (https://github.com/internousdevwork/leisurepass)
