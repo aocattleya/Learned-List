@@ -49,5 +49,5 @@
 ### チーム製作へ
 　- https://github.com/internousdevwork/leisurepass
 
-### age / Plus / TextBox / Mycattleya  
+### ・age / Plus / TextBox / Mycattleya  
 　個人的に自分でStruts2の基礎機能を使ってみた。
