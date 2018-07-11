@@ -1,39 +1,41 @@
 
-## HTML / CSS / JavaScript / PHP / MySQL
-### 　　4eachblog
-### 　　4each_keijiban
+※ 自宅PCとの共有用リポジトリ  
+なので一部ですがマークダウン練習の為に下記に内容をまとめました。
 
+## HTML / CSS / JavaScript / PHP / MySQL
+### ・4eachblog
+### ・4each_keijiban
 
 ## Javaプログラミング
 
-### Person / Person1
+### ・Person / Person1
 　　インスタンス化
 
-### Capsule / 
+### ・Capsule
 　　カプセル化
 
-### Iphone
+### ・Iphone
 　　継承と実装
 
-### CollectionFramework
+### ・CollectionFramework
 　　List / Map / Set
 
-### TestDB
+### ・TestDB
 　　MySQLデータベース接続
 
-### HelloJSP / HelloServlet
+### ・HelloJSP / HelloServlet
 　　JSP / Servlet / MySQL
 
 ## Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL）
 
-### Login
+### ・Login
 　　ログイン認証機能
 
-### template
-　　(ECサイト初級)  
+### ・template
+ - ECサイト初級)  
 　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
-### WebProj 1 ~ 5
+### ・WebProj 1 ~ 5
 　(演習)  
 　　1、JSP - Actionクラス  
 　　2、JSP - Actionクラス - DAOクラス  
@@ -41,11 +43,11 @@
 　　4、JSP - Actionクラス - DAOクラス - DTOクラス（List使用）  
 　　5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）  
 
-### ecsite
-　(ECサイト中級)
+### ・ecsite
+ - ECサイト中級
 
 ### チーム製作へ
-　(https://github.com/internousdevwork/leisurepass)
+　- https://github.com/internousdevwork/leisurepass
 
 ### age / Plus / TextBox / Mycattleya  
 　個人的に自分でStruts2の基礎機能を使ってみた。
