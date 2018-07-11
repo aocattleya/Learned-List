@@ -1,11 +1,9 @@
 
-※ スクールと自宅PCの共有用リポジトリ  
-
-## HTML / CSS / JavaScript / PHP / MySQL
+## ■ HTML / CSS / JavaScript / PHP / MySQL ■
 ### ・4eachblog
 ### ・4each_keijiban
 
-## Javaプログラミング
+## ■ Javaプログラミング ■
 
 ### ・Person / Person1
 　　インスタンス化
@@ -25,7 +23,7 @@
 ### ・HelloJSP / HelloServlet
 　　JSP / Servlet / MySQL
 
-## Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL）
+## ■ Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL） ■
 
 ### ・Login
 　　ログイン認証機能
