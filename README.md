@@ -29,7 +29,7 @@
 　　ログイン認証機能
 
 ### ・template
-　ECサイト初級  
+　★ ECサイト初級 ★  
 　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
 ### ・WebProj 1 ~ 5
@@ -41,7 +41,7 @@
 　　5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）  
 
 ### ・ecsite
-　ECサイト中級
+　★ ECサイト中級 ★  
 
 ### チーム製作へ
 　- https://github.com/internousdevwork/leisurepass
