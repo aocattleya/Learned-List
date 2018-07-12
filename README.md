@@ -43,8 +43,11 @@
 ### ・ecsite
 　★ ECサイト中級 ★  
 
-### チーム製作へ
+### ※ age / Plus / TextBox / Mycattleya  
+　個人的に自分でStruts2の基礎機能を使ってみた。
+
+### ■ ECサイト（leisurepass）- チーム製作へ ■  
 　- https://github.com/internousdevwork/leisurepass
 
-### ・age / Plus / TextBox / Mycattleya  
-　個人的に自分でStruts2の基礎機能を使ってみた。
+### ■ Visual C# - 個人製作 ■  
+　- https://github.com/aocattleya/TestVisualC-
