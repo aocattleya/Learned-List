@@ -1,9 +1,9 @@
 
-## ■ HTML / CSS / JavaScript / PHP / MySQL ■
+## 【 HTML / CSS / JavaScript / PHP / MySQL 】
 ### ● 4eachblog
 ### ● 4each_keijiban　  
 　  
-## ■ Javaプログラミング ■
+## 【 Javaプログラミング 】
 
 ### ● Person / Person1
 　　インスタンス化
@@ -23,18 +23,18 @@
 ### ● HelloJSP / HelloServlet
 　　JSP / Servlet / MySQL　  
 　  
-## ■ Javaプログラミング（MVCモデル：Struts2フレームワーク、MySQL） ■
+## 【 Javaプログラミング　MVCモデル：Struts2フレームワーク 】
 
 ### ● Login
 　　ログイン認証機能
 
 ### ● template
-　★ ECサイト初級  
+　★ ECサイト初級 ★  
  　  
 　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
-### ・WebProj 1 ~ 5
-　★ ECサイト演習  
+### ● WebProj 1 ~ 5
+　★ ECサイト演習 ★  
  　  
 　　1、JSP - Actionクラス  
 　　2、JSP - Actionクラス - DAOクラス  
@@ -43,15 +43,15 @@
 　　5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）  
 
 ### ● ecsite
-　★ ECサイト中級  
+　★ ECサイト中級 ★  
  　  
  　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能　  
 　  
 ### ※ age / Plus / TextBox / Mycattleya  
 　個人的にStruts2の基礎機能を使ってみた。
 
-### ■ ECサイト（leisurepass）- チーム製作 ■  
+### 【 ECサイト（leisurepass）- チーム製作 】  
 　- https://github.com/internousdevwork/leisurepass
 
-### ■ Visual C#（Windowsアプリケーション）- 個人製作 ■  
+### 【 Visual C#（Windowsアプリケーション）- 個人製作 】  
 　- https://github.com/aocattleya/TestVisualC-
