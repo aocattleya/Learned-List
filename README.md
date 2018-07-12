@@ -33,7 +33,7 @@
 　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
 ### ・WebProj 1 ~ 5
-　(演習)  
+　★ ECサイト演習 ★  
 　　1、JSP - Actionクラス  
 　　2、JSP - Actionクラス - DAOクラス  
 　　3、JSP - Actionクラス - DAOクラス - DTOクラス  
@@ -42,12 +42,13 @@
 
 ### ・ecsite
 　★ ECサイト中級 ★  
+ 　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
 ### ※ age / Plus / TextBox / Mycattleya  
-　個人的に自分でStruts2の基礎機能を使ってみた。
+　個人的にStruts2の基礎機能を使ってみた。
 
 ### ■ ECサイト（leisurepass）- チーム製作へ ■  
 　- https://github.com/internousdevwork/leisurepass
 
-### ■ Visual C# - 個人製作 ■  
+### ■ Visual C# - アプリ個人製作 ■  
 　- https://github.com/aocattleya/TestVisualC-
