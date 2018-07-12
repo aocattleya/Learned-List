@@ -50,5 +50,5 @@
 ### ■ ECサイト（leisurepass）- チーム製作 ■  
 　- https://github.com/internousdevwork/leisurepass
 
-### ■ Visual C# アプリ - 個人製作 ■  
+### ■ Visual C#（Windowsアプリケーション）- 個人製作 ■  
 　- https://github.com/aocattleya/TestVisualC-
