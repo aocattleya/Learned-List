@@ -87,7 +87,10 @@ public class SettlementConfirmAction extends ActionSupport implements SessionAwa
 		}
 		session.put("purchaseHistoryInfoDtoList", purchaseHistoryInfoDtoList);
 
-		if(!session.containsKey("loginId")) {
+
+//		if(!session.containsKey("loginId")) {
+
+		if(Integer.parseInt(String.valueOf(session.get("logined"))) == 0){
 			result = ERROR;
 		}else {
 			result = SUCCESS;

@@ -35,9 +35,11 @@
 	<tr>
 	<td>
 		<s:if test="#st.index == 0">
-		<input type="radio" name="id" checked="checked" value="<s:property value='id'/>"/>
-		</s:if><s:else>
-		<input type="radio" name="id" value="<s:property value='id'/>"/>
+			<input type="radio" name="id" checked="checked" value="<s:property value='id'/>"/>
+		</s:if>
+
+		<s:else>
+			<input type="radio" name="id" value="<s:property value='id'/>"/>
 		</s:else>
 	</td>
 	<td>
@@ -55,6 +57,10 @@
 	<td>
 		<s:property value="email"/>
 	</td>
+
+	<!-- 修正中 -->
+	<s:hidden name = "destinationId" value = "%{destinationId}" />
+
 	</s:iterator>
 	</tbody>
 	</table>
