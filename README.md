@@ -46,10 +46,10 @@
 　★ ECサイト中級 ★  
  　  
  　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能　  
-　  
-### ※ age / Plus / TextBox / Mycattleya  
-　個人的にStruts2の基礎機能を使ってみた。
 
+### ※ age / Plus / TextBox / Mycattleya  
+　個人的にStruts2の基礎機能を使ってみた。　  
+　  
 ### 【 チーム製作：ECサイト - leisurepass 】  
 　- https://github.com/internousdevwork/leisurepass
 
