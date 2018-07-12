@@ -1,5 +1,5 @@
 
-## 【 HTML / CSS / JavaScript / PHP / MySQL 】
+## 【 HTML / CSS / JavaScript / jQuery / PHP / MySQL 】
 ### ● 4eachblog
 ### ● 4each_keijiban　  
 　  
