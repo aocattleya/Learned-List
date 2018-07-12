@@ -47,8 +47,8 @@
 ### ※ age / Plus / TextBox / Mycattleya  
 　個人的にStruts2の基礎機能を使ってみた。
 
-### ■ ECサイト（leisurepass）- チーム製作へ ■  
+### ■ ECサイト（leisurepass）- チーム製作 ■  
 　- https://github.com/internousdevwork/leisurepass
 
-### ■ Visual C# - アプリ個人製作 ■  
+### ■ Visual C# アプリ - 個人製作 ■  
 　- https://github.com/aocattleya/TestVisualC-
