@@ -1,7 +1,15 @@
 
 ## 【 HTML / CSS / JavaScript / jQuery / PHP / MySQL 】
 ### ● 4eachblog
+　　HTML/CSS/JavaScript/jQuery  
+　　フロントサイドのデザイン、2カラムレイアウトブログ   
+### ● contactform  
+　　HTML/CSS/JavaScript/PHP/MySQL  
+　　お問い合わせフォームの作成    
 ### ● 4each_keijiban　  
+　　PHP/MySQL/CSS  
+　　入力フォームを作成、情報を受け取り表示する掲示板  
+　  
 　  
 ## 【 Javaプログラミング 】
 
@@ -15,13 +23,14 @@
 　　継承と実装
 
 ### ● CollectionFramework
-　　List / Map / Set
-
+　　コレクションフレームワーク：List / Map / Set  
+　  
 ### ● TestDB
 　　MySQLデータベース接続
 
 ### ● HelloJSP / HelloServlet
-　　JSP / Servlet / MySQL　  
+　　JSP / Servlet / MySQL  
+　  
 　  
 ## 【 Javaプログラミング　MVCモデル：Struts2フレームワーク 】
 
@@ -54,4 +63,6 @@
 　- https://github.com/internousdevwork/leisurepass
 
 ### 【 個人製作：Visual C# - Windowsアプリ 】  
-　- https://github.com/aocattleya/TestVisualC-
+　- https://github.com/aocattleya/TestVisualC-  
+　  
+※ 作成順
