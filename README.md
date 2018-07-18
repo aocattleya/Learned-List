@@ -8,7 +8,7 @@
 　　お問い合わせフォームの作成    
 ### ● 4each_keijiban　  
 　　PHP/MySQL/CSS  
-　　入力フォームを作成、情報を受け取り表示する掲示板  
+　　入力フォームから情報を受け取り表示する掲示板  
 　  
 　  
 ## 【 Javaプログラミング 】
@@ -59,10 +59,11 @@
 ### ※ age / Plus / TextBox / Mycattleya  
 　個人的にStruts2の基礎機能を使ってみた。　  
 　  
+### 【 個人製作：Visual C# - Windowsアプリ 】  
+　- https://github.com/aocattleya/TestVisualC-  
+　  
 ### 【 チーム製作：ECサイト - leisurepass 】  
 　- https://github.com/internousdevwork/leisurepass
 
-### 【 個人製作：Visual C# - Windowsアプリ 】  
-　- https://github.com/aocattleya/TestVisualC-  
 　  
 ※ 作成順
