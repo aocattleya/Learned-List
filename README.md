@@ -24,7 +24,7 @@
 
 ### ● CollectionFramework
 　　コレクションフレームワーク：List / Map / Set  
-　  
+
 ### ● TestDB
 　　MySQLデータベース接続
 
@@ -59,9 +59,10 @@
 ### ※ age / Plus / TextBox / Mycattleya  
 　個人的にStruts2の基礎機能を使ってみた。　  
 　  
-### 【 個人製作：Visual C# - Windowsアプリ 】  
-　- https://github.com/aocattleya/TestVisualC-  
 　  
+### 【 個人製作：Visual C# - Windowsアプリ 】  
+　- https://github.com/aocattleya/TestVisualC-
+
 ### 【 チーム製作：ECサイト - leisurepass 】  
 　- https://github.com/internousdevwork/leisurepass
 
