@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="リソース名 &apos;Age/WebContent/result.jsp&apos; を &apos;adult.jsp&apos; に変更します" description="リソース &apos;result.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/result.jsp" name="adult.jsp" stamp="1530251099045" updateReferences="true"/>
-</session>

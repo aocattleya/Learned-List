@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="リソース &apos;sample&apos; を削除" deleteContents="true" description="リソース &apos;sample&apos; を削除" element1="/sample" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1530581191233"/>&#x0A;<refactoring comment="リソース &apos;Servers/ローカル・ホスト の Tomcat8 (Java8)-config&apos; を削除" deleteContents="false" description="リソース &apos;Servers/ローカル・ホスト の Tomcat8 (Java8)-config&apos; を削除" element1="/Servers/ローカル・ホスト の Tomcat8 (Java8)-config" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1530594866594"/>
-</session>
