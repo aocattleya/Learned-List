@@ -2,7 +2,7 @@
 ## 【 HTML / CSS / JavaScript / jQuery / PHP / MySQL 】
 ### ● 4eachblog
 　　HTML/CSS/JavaScript/jQuery  
-　　フロントサイドのデザイン、2カラムレイアウトブログ   
+　　フロントエンドのデザイン、2カラムレイアウトブログ   
 ### ● contactform  
 　　HTML/CSS/JavaScript/PHP/MySQL  
 　　お問い合わせフォームの作成    
