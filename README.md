@@ -70,7 +70,7 @@
 　  
 　  
 ### 【 個人製作：Visual C# - Windowsアプリ 】  
-　- https://github.com/aocattleya/TestVisualC-
+　- https://github.com/aocattleya/VisualC_Sharp-Apps
 
 ### 【 チーム製作：ECサイト - leisurepass 】  
 　- https://github.com/internousdevwork/leisurepass
