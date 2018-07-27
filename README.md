@@ -1,48 +1,51 @@
 
 ## 【 HTML / CSS / JavaScript / jQuery / PHP / MySQL 】
-### ● 4eachblog
+### ● [4eachblog](https://github.com/aocattleya/Learned-List/tree/master/4each_keijiban)
 　　HTML/CSS/JavaScript/jQuery  
-　　フロントエンドのデザイン、2カラムレイアウトブログ   
-### ● contactform  
+　　フロントエンドのデザイン、2カラムレイアウトブログです。   
+![4eachblog](https://user-images.githubusercontent.com/39142850/43296743-1db90732-9188-11e8-8dd7-3c1a48e0831c.jpg)  
+  
+### ● [contactform](https://github.com/aocattleya/Learned-List/tree/master/contactform)  
 　　HTML/CSS/JavaScript/PHP/MySQL  
 　　お問い合わせフォームの作成    
-### ● 4each_keijiban　  
+### ● [4each_keijiban](https://github.com/aocattleya/Learned-List/tree/master/4each_keijiban)  
 　　PHP/MySQL/CSS  
-　　入力フォームから情報を受け取り表示する掲示板  
-　  
-　  
+　　入力フォームの作成、情報を受け取り下記に表示されていく掲示板です。  
+  ![4each_keijiban](https://user-images.githubusercontent.com/39142850/43297026-cde2a068-9189-11e8-8dcc-f6f30cb3555d.jpg)  
+    
+  
 ## 【 Javaプログラミング 】
 
-### ● Person / Person1
+### ● [Person](https://github.com/aocattleya/Learned-List/tree/master/Person/src) / [Person1](https://github.com/aocattleya/Learned-List/tree/master/Person1/src)
 　　インスタンス化
 
-### ● Capsule
+### ● [Capsule](https://github.com/aocattleya/Learned-List/tree/master/Capsule/src)
 　　カプセル化
 
-### ● Iphone
+### ● [Iphone](https://github.com/aocattleya/Learned-List/tree/master/Iphone/src)
 　　継承と実装
 
-### ● CollectionFramework
+### ● [CollectionFramework](https://github.com/aocattleya/Learned-List/tree/master/CollectionFramework/src)
 　　コレクションフレームワーク：List / Map / Set  
 
-### ● TestDB
+### ● [TestDB](https://github.com/aocattleya/Learned-List/tree/master/TestDB)
 　　MySQLデータベース接続
 
-### ● HelloJSP / HelloServlet
+### ● [HelloJSP](https://github.com/aocattleya/Learned-List/tree/master/HelloJSP/WebContent) / [HelloServlet](https://github.com/aocattleya/Learned-List/tree/master/HelloServlet)
 　　JSP / Servlet / MySQL  
 　  
 　  
 ## 【 Javaプログラミング　MVCモデル：Struts2フレームワーク 】
 
-### ● Login
+### ● [Login](https://github.com/aocattleya/Learned-List/tree/master/login)
 　　ログイン認証機能
 
-### ● template
+### ● [template](https://github.com/aocattleya/Learned-List/tree/master/template)
 　★ ECサイト　初級 ★  
  　  
 　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能
 
-### ● WebProj 1 ~ 5
+### ● WebProj [[１](https://github.com/aocattleya/Learned-List/tree/master/WebProj)], [[２](https://github.com/aocattleya/Learned-List/tree/master/WebProj2)], [[３](https://github.com/aocattleya/Learned-List/tree/master/WebProj3)], [[４](https://github.com/aocattleya/Learned-List/tree/master/WebProj4)], [[５](https://github.com/aocattleya/Learned-List/tree/master/WebProj5)]
 　★ ECサイト　演習 ★  
  　  
 　　1、JSP - Actionクラス  
@@ -51,12 +54,12 @@
 　　4、JSP - Actionクラス - DAOクラス - DTOクラス（List使用）  
 　　5、JSP - Actionクラス - DAOクラス - DTOクラス（List使用 ~ Session）  
 
-### ● ecsite
+### ● [ecsite](https://github.com/aocattleya/Learned-List/tree/master/ecsite)
 　★ ECサイト　中級 ★  
  　  
  　　ログイン認証機能 / ユーザー登録機能 / 商品登録機能 / 購入履歴機能　  
 　  
-### ● age / Plus / TextBox / Mycattleya  
+### ● [age](https://github.com/aocattleya/Learned-List/tree/master/Age) / [Plus](https://github.com/aocattleya/Learned-List/tree/master/Plus) / [TextBox](https://github.com/aocattleya/Learned-List/tree/master/TextBox) / [Mycattleya](https://github.com/aocattleya/Learned-List/tree/master/Mycattleya)  
 　個人的にStruts2の基礎機能を使ってみた。　  
 　  
 　  
