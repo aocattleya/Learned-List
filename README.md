@@ -69,11 +69,11 @@
 　個人的に簡単なStruts2の基礎機能を使っての復習。　  
 　  
 　  
-### 【 個人製作：Visual C# - Windowsアプリ 】  
+### 【 個人学習リポジトリ - Windowsアプリ：VisualC_Sharp-Apps 】
 　- https://github.com/aocattleya/VisualC_Sharp-Apps
 
-### 【 チーム製作：ECサイト - leisurepass 】  
-　- https://github.com/internousdevwork/leisurepass
+### 【 チーム製作へのリンク用リポジトリ：Team-LeisurePass 】  
+　- https://github.com/aocattleya/Team-LeisurePass
 
 　  
 ※ 作成順
