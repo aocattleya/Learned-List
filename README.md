@@ -67,13 +67,3 @@
   
 ### ● [age](https://github.com/aocattleya/Learned-List/tree/master/Age) / [Plus](https://github.com/aocattleya/Learned-List/tree/master/Plus) / [TextBox](https://github.com/aocattleya/Learned-List/tree/master/TextBox) / [Mycattleya](https://github.com/aocattleya/Learned-List/tree/master/Mycattleya)  
 　個人的に簡単なStruts2の基礎機能を使っての復習。　  
-　  
-　  
-### 【 個人学習用リポジトリ：Windowsアプリ / Visual C# 】
-　- https://github.com/aocattleya/VisualC_Sharp-Apps
-
-### 【 チーム製作へのリンク用リポジトリ：LeisurePass 】  
-　- https://github.com/aocattleya/Team-LeisurePass
-
-　  
-※ 作成順
